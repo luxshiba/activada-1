@@ -1,0 +1,10 @@
+                        PERMISOS
+
+Carpetas                                   Archivos
+(Directorio)                              (Ficheros)
+   
+   Nivel                                     Tipo
+
+Propietario (Creador)                   Lectura      (ver información)
+Grupo       (Usuarios registrados)      Escritura    (Modificar información)
+Tercero     (Ajenos)                    Ejecución(   Copiar, cortar y elimianar)
